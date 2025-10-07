@@ -1,0 +1,83 @@
+{
+    "company_name": "Cansel",
+    "industry_sector": "Civil engineering",
+    "company_size": "201-500",
+    "headquarters_regions": "Canada",
+    "mission_vision": "Cansel helps organizations in the engineering, surveying, construction, mining, architecture, manufacturing, printing, utilities, forestry, and government sectors measure, analyze, design, and build more efficiently and profitably. We have been providing tailored solutions to our clients for over 50 years.",
+    "products_services": {
+      "main_offering": "Distributor of land-based positioning systems in Canada",
+      "value_proposition": "Through the consolidated strength of our businesses, Cansel provides individual project needs and addresses a larger solution for your entire organization. We offer solution-based packages to maximize technology investment and simplify project delivery.",
+      "product_fields": [
+        {
+          "field": "Geospatial High Accuracy Field Instruments and Product",
+          "customer_segment": "B2B",
+          "pricing_model": "Sales/rent",
+          "competitive_advantage": "Largest distributor in Canada"
+        },
+        {
+          "field": "Field Supplies",
+          "customer_segment": "B2B",
+          "pricing_model": "Sales/rent"
+        },
+        {
+          "field": "Print",
+          "customer_segment": "B2B",
+          "pricing_model": "Sales"
+        },
+        {
+          "field": "Can-Net and Catalyst",
+          "customer_segment": "B2B",
+          "pricing_model": "Memberships"
+        },
+        {
+          "field": "Building Point Canada",
+          "customer_segment": "B2B",
+          "pricing_model": "Sales/rent"
+        },
+        {
+          "field": "Autodesk and design through SolidCAD",
+          "customer_segment": "B2B",
+          "pricing_model": "Services"
+        }
+      ]
+    },
+    "company_culture": {
+      "core_values": [
+        "Team spirit",
+        "Leadership style",
+        "Result oriented"
+      ],
+      "work_environment": "Depends on the job (Working environment is not standardized across the company.)",
+      "valued_employee_qualities": [
+        "Experiences",
+        "Ability to learn and understand quickly new technologies",
+        "Results oriented",
+        "Disciplined"
+      ]
+    },
+    "communication_style": {
+      "preferred_tone": "Formal but straight to the point (Corporate organization)",
+      "personality": "Professional but caring",
+      "use_of_jargon": "Heavy industry terms (8/10)"
+    },
+    "standard_benefits_perks": [
+      "Competitive compensation package",
+      "Uncapped Commission incentives for the sales team",
+      "Flexible extended health and dental benefits program",
+      "Group Life, Short-term Disability, Long-term Disability, AD&D, and Critical Illness Insurance",
+      "Access to Virtual Medical Care and Virtual Mental Health Services",
+      "Employee Assistance Program (EAP)",
+      "Access to on-line pharmacy",
+      "Employee Share Ownership Plan",
+      "Company vehicle program for Sales Reps",
+      "Peer to Peer Recognition Program",
+      "Employee Referral Program",
+      "Book Club program (for professional development)",
+      "Exclusive discount offers through Perkopolis",
+      "Preferred rates on some gym memberships",
+      "Generous long service reward program",
+      "Access to Luxury Corporate vacation properties",
+      "Scholarship Program for Employee's Children",
+      "Corporate Fundraising events"
+    ]
+  }

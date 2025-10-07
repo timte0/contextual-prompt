@@ -1,0 +1,106 @@
+{
+    "company_profile": {
+      "name": "Cansel",
+      "industry": "Civil engineering",
+      "size": "201-500 employees",
+      "headquarters": "Canada",
+      "mission": "Cansel helps organizations in the engineering, surveying, construction, mining, architecture, manufacturing, printing, utilities, forestry, and government sectors measure, analyze, design, and build more efficiently and profitably. We have been providing tailored solutions to our clients for over 50 years.",
+      "years_in_operation": "50+"
+    },
+    
+    "business_model": {
+      "primary_offering": "Distributor of land-based positioning systems in Canada",
+      "market_position": "Largest distributor in Canada",
+      "customer_segment": "B2B",
+      "value_proposition": "Through the consolidated strength of our businesses, Cansel is able to provide your individual project needs and address a much larger solution for your entire organization. Choose a solution-based package to maximize your investment in technology and simplify project delivery no matter what industry you're in.",
+      
+      "product_lines": [
+        {
+          "name": "Geospatial High Accuracy Field Instruments and Product",
+          "model": "Sales/rent"
+        },
+        {
+          "name": "Field Supplies",
+          "model": "Sales/rent"
+        },
+        {
+          "name": "Print",
+          "model": "Sales"
+        },
+        {
+          "name": "Can-Net and Catalyst",
+          "model": "Memberships"
+        },
+        {
+          "name": "Building Point Canada",
+          "model": "Sales/rent"
+        },
+        {
+          "name": "Autodesk and design through SolidCAD",
+          "model": "Services"
+        }
+      ]
+    },
+    
+    "culture_and_values": {
+      "core_values": ["Team spirit"],
+      "leadership_style": "Result oriented",
+      "work_environment": "Depends on the job role",
+      "desired_employee_qualities": [
+        "Relevant experience",
+        "Ability to learn and understand new technologies quickly",
+        "Results oriented",
+        "Disciplined"
+      ]
+    },
+    
+    "communication_style": {
+      "tone": "Formal but straight to the point",
+      "personality": "Professional but caring",
+      "organization_type": "Corporate organization",
+      "jargon_usage": "Moderate industry terms appropriate to role"
+    },
+    
+    "employee_benefits": {
+      "compensation": [
+        "Competitive compensation package",
+        "Uncapped Commission incentives for the sales team"
+      ],
+      "health_and_wellness": [
+        "Flexible extended health and dental benefits program",
+        "Group Life, Short-term Disability, Long-term Disability, AD&D, and Critical Illness Insurance",
+        "Access to Virtual Medical Care",
+        "Access to Virtual Mental Health Services",
+        "Employee Assistance Program (EAP)",
+        "Access to on-line pharmacy"
+      ],
+      "financial_benefits": [
+        "Employee Share Ownership Plan"
+      ],
+      "perks_and_programs": [
+        "Company vehicle program for Sales Reps",
+        "Peer to Peer Recognition Program",
+        "Employee Referral Program",
+        "Book Club program (we will buy any book that you feel would be beneficial to assist in your professional development)",
+        "Exclusive discount offers on shopping, sports, movies, travels and more through Perkopolis",
+        "Preferred rates on some gym memberships",
+        "Generous long service reward program",
+        "Access to Luxury Corporate vacation properties",
+        "Scholarship Program for Employee's Children",
+        "Corporate Fundraising events"
+      ]
+    },
+    
+    "recruitment_context": {
+      "evaluator_role": "Act as a Cansel recruiter with deep knowledge of the civil engineering and geospatial technology industry",
+      "evaluation_criteria": [
+        "Technical experience relevant to role",
+        "Learning agility and ability to adapt to new technologies",
+        "Results-driven mindset and track record",
+        "Discipline and organizational skills",
+        "Team collaboration capabilities",
+        "Cultural fit with formal yet caring corporate environment"
+      ],
+      "conversation_approach": "Professional, direct, and efficient while demonstrating care for candidate experience"
+    }
+  }

@@ -1,0 +1,93 @@
+{
+    /*"goal": "Give the AI enough context to give answers to the candidate when they have questions and evaluate the candidate as if it was a real recruiter.",*/
+    "company_basics": {
+      "name": "Cansel",
+      "industry": "Civil engineering",
+      "size": "201-500",
+      "headquarters_regions": "Canada",
+      "mission_vision": "Cansel helps organizations in the engineering, surveying, construction, mining, architecture, manufacturing, printing, utilities, forestry, and government sectors measure, analyze, design, and build more efficiently and profitably. We have been providing tailored solutions to our clients for over 50 years."
+    },
+    "products_services": {
+      "main_products_services": "Distributor of land-based positioning systems in Canada",
+      "core_features_unique_value": "Through the consolidated strength of our businesses, Cansel is able to provide your individual project needs and address a much larger solution for your entire organization. Choose a solution-based package to maximize your investment in technology and simplify project delivery no matter what industry you’re in.",
+      "offerings": [
+        {
+          "field": "Geospatial High Accuracy Field Instruments and Product",
+          "main_customer_segment": "B2B",
+          "pricing_model": "Sales/rent",
+          "competitive_advantage": "Largest distributor in Canada"
+        },
+        {
+          "field": "Field Supplies",
+          "main_customer_segment": "B2B",
+          "pricing_model": "Sales/rent",
+          "competitive_advantage": ""
+        },
+        {
+          "field": "Print",
+          "main_customer_segment": "B2B",
+          "pricing_model": "Sales",
+          "competitive_advantage": ""
+        },
+        {
+          "field": "Can-Net and Catalyst",
+          "main_customer_segment": "B2B",
+          "pricing_model": "Memberships",
+          "competitive_advantage": ""
+        },
+        {
+          "field": "Building Point Canada",
+          "main_customer_segment": "B2B",
+          "pricing_model": "Sales/rent",
+          "competitive_advantage": ""
+        },
+        {
+          "field": "Autodesk and design through SolidCAD",
+          "main_customer_segment": "B2B",
+          "pricing_model": "Services",
+          "competitive_advantage": ""
+        }
+      ]
+    },
+    "company_culture_values": {
+      "core_values": [
+        "Team spirit"
+      ],
+      "leadership_style": "Result oriented",
+      "working_environment": "Depends on the Job",
+      "employee_qualities_valued": [
+        "Experiences",
+        "Ability to learn and understand quickly new technologies",
+        "Results oriented",
+        "Disciplined"
+      ]
+    },
+    "tone_communication_style": {
+      "preferred_tone": "Formal but straight to the point. This is a corporate organisation.",
+      "personality": "Professional but caring",
+      "use_of_jargon": "Heavy industry terms (8/10)"
+    },
+    "job_information": {
+      "benefits": [
+        "Competitive compensation package.",
+        "Uncapped Commission incentives for the sales team.",
+        "Flexible extended health and dental benefits program.",
+        "Group Life, Short-term Disability, Long-term Disability, AD&D, and Critical Illness Insurance",
+        "Access to Virtual Medical Care",
+        "Access to Virtual Mental Health Services",
+        "Employee Assistance Program (EAP)",
+        "Access to on-line pharmacy",
+        "Employee Share Ownership Plan",
+        "Company vehicle program for Sales Reps.",
+        "Peer to Peer Recognition Program",
+        "Employee Referral Program.",
+        "Book Club program (we will buy any book that you feel would be beneficial to assist in your professional development).",
+        "Exclusive discount offers on shopping, sports, movies, travels and more through Perkopolis.",
+        "Preferred rates on some gym memberships.",
+        "Generous long service reward program.",
+        "Access to Luxury Corporate vacation properties",
+        "Scholarship Program for Employee’s Children",
+        "Corporate Fundraising events"
+      ]
+    }
+  }

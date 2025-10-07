@@ -1,0 +1,88 @@
+{
+    "company_overview": {
+      "name": "Cansel",
+      "industry": "Civil engineering",
+      "company_size": "201-500 employees",
+      "headquarters": "Canada",
+      "regions_of_operation": "Canada",
+      "mission_statement": "Cansel helps organizations in the engineering, surveying, construction, mining, architecture, manufacturing, printing, utilities, forestry, and government sectors measure, analyze, design, and build more efficiently and profitably. We have been providing tailored solutions to our clients for over 50 years."
+    },
+  
+    "products_and_services": {
+      "main_products_or_services": "Distributor of land-based positioning systems in Canada",
+      "core_value_proposition": "Through the consolidated strength of our businesses, Cansel provides tailored solutions for individual project needs and addresses larger organizational solutions. We offer solution-based packages to maximize technology investment and simplify project delivery across industries.",
+  
+      "offerings": [
+        {
+          "field": "Geospatial High Accuracy Field Instruments and Product",
+          "customer_segment": "Sales/rent B2B",
+          "pricing_model": "Largest distributor in Canada"
+        },
+        {
+          "field": "Field Supplies",
+          "customer_segment": "Sales/rent B2B"
+        },
+        {
+          "field": "Print",
+          "customer_segment": "Sales B2B"
+        },
+        {
+          "field": "Can-Net and Catalyst",
+          "customer_segment": "Memberships B2B"
+        },
+        {
+          "field": "Building Point Canada",
+          "customer_segment": "Sales/rent B2B"
+        },
+        {
+          "field": "Autodesk and design through SolidCAD",
+          "customer_segment": "Services B2B"
+        }
+      ]
+    },
+  
+    "company_culture_and_values": {
+      "core_values": [
+        "Team spirit",
+        "Leadership",
+        "Result-oriented",
+        "Disciplined"
+      ],
+      "working_environment": "Depends on the job (remote-first, hybrid, etc.)",
+      "employee_qualities_valued": [
+        "Experiences",
+        "Ability to learn and understand quickly new technologies",
+        "Results-oriented",
+        "Disciplined"
+      ]
+    },
+  
+    "tone_and_communication_style": {
+      "preferred_tone": "Formal but straight to the point",
+      "personality": "Professional but caring",
+      "use_of_jargon": "Moderate to heavy industry terms (8/10)"
+    },
+  
+    "employee_benefits": [
+      "Competitive compensation package",
+      "Uncapped commission incentives for the sales team",
+      "Flexible extended health and dental benefits program",
+      "Group Life, Short-term Disability, Long-term Disability, AD&D, and Critical Illness Insurance",
+      "Access to Virtual Medical Care",
+      "Access to Virtual Mental Health Services",
+      "Employee Assistance Program (EAP)",
+      "Access to online pharmacy",
+      "Employee Share Ownership Plan",
+      "Company vehicle program for Sales Reps",
+      "Peer-to-Peer Recognition Program",
+      "Employee Referral Program",
+      "Book Club program (company purchases books for professional development)",
+      "Exclusive discount offers on shopping, sports, movies, travel, and more through Perkopolis",
+      "Preferred rates on some gym memberships",
+      "Generous long service reward program",
+      "Access to Luxury Corporate vacation properties",
+      "Scholarship Program for Employee's Children",
+      "Corporate Fundraising events"
+    ]
+  }
+  
