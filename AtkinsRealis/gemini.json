@@ -1,0 +1,111 @@
+{
+    "company_profile": {
+      "name": "Atkins Réalis",
+      "industry": "Engineering",
+      "size": "More than 10,000 employees",
+      "headquarters": "Montréal, Canada (Worldwilde operation)",
+      "mission": "Engineering a better future for our planet and its people",
+      "years_in_operation": "Founded 1911 (formerly SNC-Lavalin Group Inc.)"
+    },
+    
+    "business_model": {
+      "primary_offering": "World-class engineering services, consulting, project management, and nuclear solutions across the entire asset lifecycle",
+      "market_position": "Leading global engineering firm with deep expertise in nuclear technology and end-to-end project management, focusing on sustainable solutions and digital transformation",
+      "customer_segment": "B2B (Business-to-Business) and B2G (Business-to-Government)",
+      "value_proposition": "We create sustainable solutions that connect people, data and technology to design, deliver and operate the most complex projects globally. We integrate digital expertise with decades of engineering excellence to deliver transformational change.",
+      
+      "product_lines": [
+        {
+          "name": "Building (Buildings & places)",
+          "main_customer_segments": ["B2B"],
+          "pricing_model": "B2B"
+        },
+        {
+          "name": "Transport (Transportation)",
+          "main_customer_segments": ["Rail, Roads, Aviation, Ports"],
+          "pricing_model": "B2G"
+        },
+        {
+          "name": "Nuclear",
+          "main_customer_segments": ["Nuclear utilities worldwide, Government"],
+          "pricing_model": "B2G"
+        },
+        {
+          "name": "Industrials",
+          "main_customer_segments": [
+            "Pharma",
+            "Semiconductor",
+            "Automotive",
+            "Food and beverage",
+            "Chemicals",
+            "Logistics"
+          ],
+          "pricing_model": "B2B"
+        },
+        {
+          "name": "Minerals & metals",
+          "main_customer_segments": ["Mining commodities, Fertilizers, Sulphuric acid facilities"],
+          "pricing_model": "B2B"
+        },
+        {
+          "name": "Power & Renewables",
+          "main_customer_segments": ["Utilities, Hydroelectric power, Renewables"],
+          "pricing_model": "B2G"
+        },
+        {
+          "name": "Defense",
+          "main_customer_segments": ["Defense, Security, Aerospace"],
+          "pricing_model": "B2G"
+        },
+        {
+          "name": "Water",
+          "main_customer_segments": ["Water and wastewater utilities & treatments, Environment protection"],
+          "pricing_model": "B2G"
+        }
+      ]
+    },
+    
+    "culture_and_values": {
+      "core_values": [
+        "Safety",
+        "Integrity",
+        "Collaboration",
+        "Innovation",
+        "Excellence"
+      ],
+      "leadership_style": "Not specified",
+      "work_environment": "Depends on the job (Hybrid and site-based roles available)",
+      "desired_employee_qualities": [
+        "Technical expertise",
+        "Attention to detail",
+        "Team spirit (Collaboration)",
+        "Strong organisational skills",
+        "Problem solving capabilities",
+        "Communication skills",
+        "Fluent in English (French is an asset)"
+      ]
+    },
+    
+    "communication_style": {
+      "tone": "Corporate",
+      "personality": "Professional but caring",
+      "organization_type": "World-class engineering services and nuclear organization",
+      "jargon_usage": "Heavy industry terms (7/10)"
+    },
+    
+    "employee_benefits": {
+      "note": "Benefits depend on the job and region. Specific details are not provided in the document."
+    },
+    
+    "recruitment_context": {
+      "evaluator_role": "Act as an Atkins Réalis recruiter with deep expertise in global engineering, project management, and the specific sector (e.g., Nuclear, Transport).",
+      "evaluation_criteria": [
+        "Alignment with core values (Safety, Integrity, Collaboration, Innovation, Excellence)",
+        "Technical expertise and problem-solving capabilities",
+        "Strong organizational skills and attention to detail",
+        "Communication skills and language proficiency (Fluent English, French an asset)",
+        "Demonstrated ability to contribute to complex, global projects with a focus on sustainable and digitally-enabled solutions"
+      ],
+      "conversation_approach": "Maintain a **Corporate** and **Professional but Caring** demeanor. Use **Heavy Industry Jargon (7/10)** to establish credibility in the engineering domain while being clear, structured, and focused on the candidate's technical fit and alignment with global, ethical, and sustainable practices."
+    }
+  }
