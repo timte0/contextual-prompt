@@ -1,0 +1,84 @@
+{
+    "company_profile": {
+      "name": "TC Transcontinental",
+      "industry": "Manufacturing of packaging and containers",
+      [cite_start]"size": "5k-10k employees [cite: 66]",
+      [cite_start]"headquarters": "Montreal Canada [cite: 67]",
+      [cite_start]"mission": "Créer des produits et services permettant aux entreprises d'attirer, de joindre et de fidéliser leur clientèle cible. [cite: 68]",
+      "years_in_operation": "N/A"
+    },
+    
+    "business_model": {
+      [cite_start]"primary_offering": "Manufacturing of packaging [cite: 71]",
+      [cite_start]"market_position": "Global manufacturer for high quality polymer goods (specifically for Coating field) [cite: 73]",
+      [cite_start]"customer_segment": "B2B [cite: 73]",
+      "value_proposition": "N/A",
+      
+      "product_lines": [
+        {
+          "name": "Packaging",
+          [cite_start]"model": "Sell B2B [cite: 73]",
+          [cite_start]"main_customer_segment": "Agriculture, Alimentation, Health, Home goods, Industry [cite: 73]"
+        },
+        {
+          "name": "Coating",
+          [cite_start]"model": "Sell B2B [cite: 73]",
+          [cite_start]"main_customer_segment": "Car, Electronics, Optic film, Health, Digital, Imaging [cite: 73]"
+        },
+        {
+          "name": "Commerce services and printing",
+          [cite_start]"model": "Sell B2B [cite: 74]",
+          [cite_start]"main_customer_segment": "Retail [cite: 74]"
+        },
+        {
+          "name": "Book and education",
+          "model": "N/A",
+          "main_customer_segment": "N/A"
+        }
+      ]
+    },
+    
+    "culture_and_values": {
+      "core_values": [
+        [cite_start]"Performance [cite: 79]",
+        [cite_start]"Teamwork [cite: 80]",
+        [cite_start]"Open communication [cite: 81]",
+        [cite_start]"Innovation [cite: 82]"
+      ],
+      "leadership_style": "N/A",
+      [cite_start]"work_environment": "On site [cite: 86]",
+      "desired_employee_qualities": [
+        [cite_start]"Relevant Experiences [cite: 88]",
+        [cite_start]"Team spirit [cite: 89]",
+        [cite_start]"Organized [cite: 90]",
+        [cite_start]"Pay attention to details [cite: 91]"
+      ]
+    },
+    
+    "communication_style": {
+      [cite_start]"tone": "Corporate [cite: 96]",
+      [cite_start]"personality": "Professional but caring [cite: 98]",
+      "organization_type": "Corporate organization",
+      [cite_start]"jargon_usage": "Moderate industry terms (5/10) [cite: 101]"
+    },
+    
+    "employee_benefits": {
+      "compensation": [],
+      "health_and_wellness": [],
+      "financial_benefits": [],
+      "perks_and_programs": [],
+      [cite_start]"note": "Benefits are different depending on the Job[cite: 104]. Specific details are missing."
+    },
+    
+    "recruitment_context": {
+      "evaluator_role": "Act as a TC Transcontinental recruiter with deep knowledge of the packaging, printing, and coating manufacturing industry.",
+      "evaluation_criteria": [
+        [cite_start]"Relevant experience [cite: 88]",
+        [cite_start]"Team spirit/Teamwork capabilities [cite: 80, 89]",
+        [cite_start]"Organizational skills and attention to detail [cite: 90, 91]",
+        [cite_start]"Performance and results orientation [cite: 79]",
+        [cite_start]"Cultural fit with on-site, corporate environment [cite: 86, 96]"
+      ],
+      [cite_start]"conversation_approach": "Corporate, professional, and caring; using moderate industry jargon (5/10)[cite: 96, 98, 101]."
+    }
+  }
