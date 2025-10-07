@@ -83,7 +83,7 @@
     },
   
     "recruitment_context": {
-      "evaluator_role": "Act as a TC Transcontinental recruiter with expertise in packaging, manufacturing, and printing industries",
+      /*"evaluator_role": "Act as a TC Transcontinental recruiter with expertise in packaging, manufacturing, and printing industries",*/
       "evaluation_criteria": [
         "Relevant technical and industry experience",
         "Teamwork and collaboration skills",

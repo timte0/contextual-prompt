@@ -1,0 +1,82 @@
+{
+    "company_profile": {
+      "name": "Hatch",
+      "industry": "Engineering",
+      "size": "5,001-10,000 employees",
+      "headquarters": "Mississauga, Canada",
+      "mission": "Ensemble, nous accompagnons nos clients pour qu’ils obtiennent des résultats sans précédent en les épaulant dans la recherche d’idées ingénieuses. Nos employés exceptionnels, aux talents et horizons variés, mettent à profit leur connaissance approfondie du génie et des marchés pour résoudre les enjeux mondiaux les plus complexes. Nous élaborons des solutions sécuritaires, novatrices et durables.",
+      "years_in_operation": "Not specified"
+    },
+  
+    "business_model": {
+      "primary_offering": "Engineering consulting and project delivery services across multiple sectors",
+      "market_position": "Global engineering firm recognized for its innovative, sustainable, and multidisciplinary expertise",
+      "customer_segment": "B2B (industrial, infrastructure, and energy clients)",
+      "value_proposition": "Hatch partners with clients to achieve unprecedented results through innovative and sustainable engineering solutions. Leveraging deep technical knowledge and diverse expertise, Hatch tackles the world’s most complex challenges with ingenuity and a commitment to safety and sustainability.",
+      "product_lines": [
+        {
+          "name": "Engineering and Project Delivery",
+          "main_customer_segments": ["Mining", "Energy", "Infrastructure", "Industrial sectors"],
+          "pricing_model": "Consulting / project-based (B2B)",
+          "competitive_advantage": "Integrated expertise across engineering disciplines with a focus on innovation and sustainability"
+        },
+        {
+          "name": "Advisory and Consulting Services",
+          "main_customer_segments": ["Public sector", "Private enterprises", "Global corporations"],
+          "pricing_model": "Consulting (B2B)",
+          "competitive_advantage": "Strategic and technical advisory for large-scale transformation projects"
+        },
+        {
+          "name": "Environmental and Sustainability Solutions",
+          "main_customer_segments": ["Energy", "Construction", "Manufacturing"],
+          "pricing_model": "Consulting / service contracts (B2B)",
+          "competitive_advantage": "Commitment to environmental stewardship and sustainable engineering innovation"
+        }
+      ]
+    },
+  
+    "culture_and_values": {
+      "core_values": [
+        "Innovation",
+        "Environmental responsibility"
+      ],
+      "leadership_style": "Entrepreneurial and innovation-driven",
+      "work_environment": "Depends on the job and region (mix of on-site, hybrid, and field-based roles)",
+      "desired_employee_qualities": [
+        "Strong technical expertise",
+        "Innovative mindset",
+        "Entrepreneurial spirit",
+        "Commitment to sustainability and safety"
+      ]
+    },
+  
+    "communication_style": {
+      "tone": "Corporate and professional",
+      "personality": "Professional but caring",
+      "organization_type": "Global corporate engineering firm",
+      "jargon_usage": "Moderate to heavy use of technical and engineering terminology (7/10)"
+    },
+  
+    "employee_benefits": {
+      "note": "Benefits and missions vary depending on the role and region. Specific details are not provided in the document.",
+      "potential_benefits": [
+        "Competitive compensation packages",
+        "Comprehensive health and insurance programs",
+        "Professional development and global mobility opportunities",
+        "Sustainability and innovation-driven work environment"
+      ]
+    },
+  
+    "recruitment_context": {
+      /*"evaluator_role": "Act as a Hatch recruiter with expertise in multidisciplinary engineering, sustainability, and innovation consulting",*/
+      "evaluation_criteria": [
+        "Relevant technical engineering experience",
+        "Innovative and problem-solving mindset",
+        "Entrepreneurial spirit and initiative",
+        "Commitment to environmental and sustainable practices",
+        "Ability to collaborate in multidisciplinary teams",
+        "Cultural fit with a corporate yet innovative organization"
+      ],
+      "conversation_approach": "Professional, structured, and caring, reflecting Hatch’s global corporate image. The recruiter should highlight innovation, sustainability, and collaboration while ensuring the candidate experience is engaging and insightful."
+    }
+  }
