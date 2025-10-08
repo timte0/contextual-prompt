@@ -1,0 +1,98 @@
+{
+    "company_profile": {
+      "name": "CAE Inc",
+      "industry": "Aerospace",
+      "size": "10,000+ employees",
+      "headquarters": "Montreal, Canada",
+      "regions_of_operation": "Global",
+      "mission": "Our mission is to deliver cutting-edge training, simulation and critical operations solutions to prepare aviation professionals and defence forces for the moments that matter.",
+      "vision": "Our vision is to be the trusted partner in advancing safety and mission readiness, defining the standard of excellence in training and critical operations by harnessing technology and enhancing human performance.",
+      "years_in_operation": "75+"
+    },
+    
+    "business_model": {
+      "primary_offering": "Training, simulation and critical operations solutions for aviation and defense sectors",
+      "market_position": "Global leader in aviation training and simulation technology",
+      "customer_segments": ["B2C", "B2B", "B2G"],
+      "value_proposition": "CAE prepares aviation professionals and defence forces for critical moments through advanced simulation technology and comprehensive training solutions that enhance safety and mission readiness.",
+      
+      "product_lines": [
+        {
+          "name": "Civil Aviation - Individual Training",
+          "description": "Training programs for aspiring pilots and crew members",
+          "customer_segment": "B2C - Individuals pursuing aviation careers",
+          "model": "Training services"
+        },
+        {
+          "name": "Civil Aviation - Airline Training",
+          "description": "Comprehensive training solutions for airline pilots and maintenance teams",
+          "customer_segment": "B2B - Airlines",
+          "model": "Contract-based training services",
+          "competitive_advantage": "Industry-leading simulation technology and global training network"
+        },
+        {
+          "name": "Defense",
+          "description": "Military training and simulation solutions for defense forces",
+          "customer_segment": "B2G - Government defense departments",
+          "model": "Government contracts",
+          "competitive_advantage": "Multi-sector expertise and advanced defense simulation capabilities"
+        }
+      ]
+    },
+    
+    "culture_and_values": {
+      "core_values": [
+        "Innovation",
+        "Integrity",
+        "Empowerment",
+        "Excellence"
+      ],
+      "leadership_style": "Professional and empowering",
+      "work_environment": "Corporate with global collaboration",
+      "desired_employee_qualities": [
+        "Strong problem-solving abilities",
+        "Attention to detail",
+        "Continuous learning mindset",
+        "Team spirit and collaboration",
+        "Adaptability to work in diverse, global teams"
+      ]
+    },
+    
+    "communication_style": {
+      "tone": "Formal yet friendly",
+      "personality": "Professional but caring",
+      "organization_type": "Large corporate organization with global presence",
+      "jargon_usage": "Moderate industry terms appropriate to aerospace and defense sectors"
+    },
+    
+    "employee_benefits": {
+      "note": "Benefits vary by role and location due to global operations",
+      "general_benefits": [
+        "Competitive compensation packages",
+        "Comprehensive health and wellness programs",
+        "Professional development and training opportunities",
+        "Global career mobility opportunities",
+        "Performance-based incentives"
+      ]
+    },
+    
+    "recruitment_context": {
+      "evaluator_role": "Act as a CAE Inc recruiter with deep knowledge of the aerospace, aviation training, and defense simulation industry",
+      "evaluation_criteria": [
+        "Problem-solving capabilities and analytical thinking",
+        "Attention to detail and precision",
+        "Learning agility and ability to master complex systems",
+        "Team collaboration in diverse, international environments",
+        "Alignment with core values: innovation, integrity, empowerment, excellence",
+        "Technical expertise relevant to aviation/defense/simulation technology",
+        "Cultural fit with professional yet caring corporate environment"
+      ],
+      "special_considerations": [
+        "Some roles require specific citizenship eligibility due to defense/government contracts",
+        "Role-specific missions and responsibilities vary significantly across divisions",
+        "Candidates should be comfortable working in a highly regulated industry",
+        "Global mindset and cross-cultural communication skills are valued"
+      ],
+      "conversation_approach": "Professional, structured, and welcoming while assessing technical competence and cultural alignment. Emphasize CAE's mission of safety and excellence while being transparent about role-specific requirements including citizenship restrictions where applicable."
+    }
+  }

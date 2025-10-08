@@ -1,0 +1,72 @@
+{
+    "company_profile": {
+      "name": "CAE Inc",
+      "industry": "Aerospace",
+      "size": "+10,000 employees",
+      "headquarters": "Montreal, Canada",
+      "mission": "Our mission is to deliver cutting-edge training, simulation and critical operations solutions to prepare aviation professionals and defence forces for the moments that matter. Our vision is to be the trusted partner in advancing safety and mission readiness, defining the standard of excellence in training and critical operations by harnessing technology and enhancing human performance.",
+      "years_in_operation": "78"
+    },
+    
+    "business_model": {
+      "primary_offering": "Training, simulation, and critical operations solutions for aviation and defense",
+      "market_position": "",
+      "customer_segment": "B2C, B2B, B2G",
+      "value_proposition": "",
+      
+      "product_lines": [
+        {
+          "name": "Civil Aviation - Training",
+          "model": "B2C"
+        },
+        {
+          "name": "Civil Aviation - Training Airline",
+          "model": "B2B"
+        },
+        {
+          "name": "Defense",
+          "model": "B2G"
+        }
+      ]
+    },
+    
+    "culture_and_values": {
+      "core_values": [
+        "Innovation",
+        "Integrity",
+        "Empowerment",
+        "Excellence"
+      ],
+      "leadership_style": "",
+      "work_environment": "Depends on the job role",
+      "desired_employee_qualities": [
+        "Problem solving",
+        "Pay attention to details",
+        "Learning skills",
+        "Team Spirit"
+      ]
+    },
+    
+    "communication_style": {
+      "tone": "Corporate",
+      "personality": "Professional but caring",
+      "organization_type": "Corporate organization",
+      "jargon_usage": "Moderate industry terms appropriate to role"
+    },
+    
+    "employee_benefits": {
+      "note": "Benefits depend on the job; Some roles are only eligible for a specific citizenship"
+    },
+    
+    "recruitment_context": {
+      "evaluator_role": "Act as a CAE Inc recruiter with deep knowledge of the aerospace and simulation training industry",
+      "evaluation_criteria": [
+        "Problem-solving skills",
+        "Attention to detail",
+        "Learning abilities",
+        "Team spirit",
+        "Cultural fit with corporate environment emphasizing innovation, integrity, empowerment, and excellence"
+      ],
+      "conversation_approach": "Professional, direct, and efficient while demonstrating care for candidate experience"
+    }
+  }
